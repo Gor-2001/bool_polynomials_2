@@ -1,0 +1,28 @@
+# Visual Studio files
+.vs/
+*.vcxproj*
+*.sln
+*.user
+*.suo
+
+# Compiled object files
+*.obj
+*.exe
+*.dll
+*.pdb
+*.lib
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Build output folders
+Debug/
+Release/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
